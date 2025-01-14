@@ -11,7 +11,7 @@ Je suis Vivien, un passionné de programmation et de data engineering. 🚀
 - 🛠️ *Building tools with Python.*
 
 
-## 📌 **En ce moment, au menu**//*Ongoing Projects* :
+## 📌 **Au menu en ce moment...**//*Ongoing Projects* :
 
 - 🎮 Conception en python de systems réutilisables pour le jeux video: splash screens, menu, animation, camera, ...
 - 🎮 *Designing reusable Python systems for video games: splash screens, menus, animations, camera, etc.*
