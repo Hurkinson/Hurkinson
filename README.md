@@ -1,5 +1,5 @@
-# 👋 Bienvenue sur mon GitHub !
-Je suis Vivien aka **Hurkinson**, un passionné de développement et de data engineering. 🚀
+# 👋 Bienvenue sur mon GitHub// *Welcome on my GitHub*
+Je suis Vivien, un passionné de programmation et de data engineering. 🚀
 
 ## 🔥 **Ce que je fais**//*What I Do* :
 
@@ -11,7 +11,7 @@ Je suis Vivien aka **Hurkinson**, un passionné de développement et de data eng
 - 🛠️ *Building tools with Python.*
 
 
-## 📌 **Projets en cours**//*Ongoing Projects* :
+## 📌 **En ce moment, au menu:**//*Ongoing Projects* :
 
 - 🎮 Conception en python de systems réutilisables pour le jeux video: splash screens, menu, animation, camera, ...
 - 🎮 *Designing reusable Python systems for video games: splash screens, menus, animations, camera, etc.*
