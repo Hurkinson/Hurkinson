@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Bienvenue sur mon GitHub !
+Je suis Vivien aka **Hurkinson**, un passionné de développement et de data engineering. 🚀
 
-<!--
-**Hurkinson/Hurkinson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔥 **Ce que je fais**//**What I Do** :
 
-Here are some ideas to get you started:
+- 🎮 Développement de jeux vidéo
+- 🎮 Game development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📊 Materiel de formation en Analyse de données, data engineering et Machine Learning
+- 📊 Data analysis, machine learning and data engineering learning contents
+
+- 🛠️ Création d’outils divers en Python
+- 🛠️ Building tools with Python
+
+
+## 📌 **Projets en cours**//**Ongoing Projects** :
+
+- 🎮 : Conception en python de systems réutilisables pour le jeux video: splash screens, menu, animation, camera, ...
+- 🎮 : Designing reusable Python systems for video games: splash screens, menus, animations, camera, etc.
+- 
+- 🛠️ : Outil de création d'assets 2D/spritesheet automatisé
+- 🛠️ : Automated 2D asset/spritesheet creation tool
+- 
+- 📦 : Pipeline ETL avec Docker pour de l'analyse sur l'emploi en france.
+- 📦 : ETL pipeline with Docker for job market analysis in France
+- 
+- 📖 : me familiariser avec Rust quand j'ai le temp.
+- 📖 : Getting familiar with Rust whenever I have time
+
+
+
+🌎 **Retrouvez-moi ici**//**Connect with me** :
+- [LinkedIn]([https://www.linkedin.com/in/tonprofil](https://www.linkedin.com/in/vivien-schneider-007a7462/)
