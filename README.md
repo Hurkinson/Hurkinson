@@ -1,4 +1,6 @@
-# 👋 Bienvenue sur mon GitHub// *Welcome on my GitHub*   *last update:  01 15 2025*
+*last update:  01 15 2025*
+
+# 👋 Bienvenue sur mon GitHub// *Welcome on my GitHub*   
 Je suis Vivien, un passionné de programmation et de data engineering. 🚀
 
 ## 🔥 **Ce que je fais**//*What I Do* :
