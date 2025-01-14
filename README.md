@@ -1,33 +1,28 @@
 # 👋 Bienvenue sur mon GitHub !
 Je suis Vivien aka **Hurkinson**, un passionné de développement et de data engineering. 🚀
 
-## 🔥 **Ce que je fais**//**What I Do** :
+## 🔥 **Ce que je fais**//*What I Do* :
 
 - 🎮 Développement de jeux vidéo
-- 🎮 Game development
-
+- 🎮 *Game development*
 - 📊 Materiel de formation en Analyse de données, data engineering et Machine Learning
-- 📊 Data analysis, machine learning and data engineering learning contents
+- 📊 *Data analysis, machine learning and data engineering learning contents*
+- 🛠️ Création d’outils divers en Python.
+- 🛠️ *Building tools with Python.*
 
-- 🛠️ Création d’outils divers en Python
-- 🛠️ Building tools with Python
 
+## 📌 **Projets en cours**//*Ongoing Projects* :
 
-## 📌 **Projets en cours**//**Ongoing Projects** :
-
-- 🎮 : Conception en python de systems réutilisables pour le jeux video: splash screens, menu, animation, camera, ...
-- 🎮 : Designing reusable Python systems for video games: splash screens, menus, animations, camera, etc.
-- 
-- 🛠️ : Outil de création d'assets 2D/spritesheet automatisé
-- 🛠️ : Automated 2D asset/spritesheet creation tool
-- 
-- 📦 : Pipeline ETL avec Docker pour de l'analyse sur l'emploi en france.
-- 📦 : ETL pipeline with Docker for job market analysis in France
-- 
-- 📖 : me familiariser avec Rust quand j'ai le temp.
-- 📖 : Getting familiar with Rust whenever I have time
+- 🎮 Conception en python de systems réutilisables pour le jeux video: splash screens, menu, animation, camera, ...
+- 🎮 *Designing reusable Python systems for video games: splash screens, menus, animations, camera, etc.*
+- 🛠️ Outil de création d'assets 2D/spritesheet automatisé.
+- 🛠️ *Automated 2D asset/spritesheet creation tool.* 
+- 📦 Pipeline ETL avec Docker pour de l'analyse sur l'emploi en france.
+- 📦 *ETL pipeline with Docker for job market analysis in France.*
+- 📖 me familiariser avec Rust quand j'ai le temp.
+- 📖 *Getting familiar with Rust whenever I have time.*
 
 
 
-🌎 **Retrouvez-moi ici**//**Connect with me** :
+🌎 **Retrouvez-moi ici**//*Connect with me* :
 - [LinkedIn]([https://www.linkedin.com/in/tonprofil](https://www.linkedin.com/in/vivien-schneider-007a7462/)
