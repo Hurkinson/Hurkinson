@@ -1,4 +1,4 @@
-# 👋 Bienvenue sur mon GitHub// *Welcome on my GitHub*
+# 👋 Bienvenue sur mon GitHub// *Welcome on my GitHub*   *last update:  01 15 2025*
 Je suis Vivien, un passionné de programmation et de data engineering. 🚀
 
 ## 🔥 **Ce que je fais**//*What I Do* :
@@ -11,7 +11,7 @@ Je suis Vivien, un passionné de programmation et de data engineering. 🚀
 - 🛠️ *Building tools with Python.*
 
 
-## 📌 **En ce moment, au menu:**//*Ongoing Projects* :
+## 📌 **En ce moment, au menu**//*Ongoing Projects* :
 
 - 🎮 Conception en python de systems réutilisables pour le jeux video: splash screens, menu, animation, camera, ...
 - 🎮 *Designing reusable Python systems for video games: splash screens, menus, animations, camera, etc.*
@@ -21,7 +21,6 @@ Je suis Vivien, un passionné de programmation et de data engineering. 🚀
 - 📦 *ETL pipeline with Docker for job market analysis in France.*
 - 📖 me familiariser avec Rust quand j'ai le temp.
 - 📖 *Getting familiar with Rust whenever I have time.*
-
 
 
 🌎 **Retrouvez-moi ici**//*Connect with me* :
