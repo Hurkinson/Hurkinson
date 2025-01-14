@@ -25,4 +25,4 @@ Je suis Vivien, un passionné de programmation et de data engineering. 🚀
 
 
 🌎 **Retrouvez-moi ici**//*Connect with me* :
-- [LinkedIn]([https://www.linkedin.com/in/tonprofil](https://www.linkedin.com/in/vivien-schneider-007a7462/)
+- [LinkedIn](https://www.linkedin.com/in/vivien-schneider-007a7462/)
