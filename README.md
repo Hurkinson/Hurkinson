@@ -15,6 +15,8 @@ Je suis Vivien, un passionné de programmation et de data engineering. 🚀
 
 ## 📌 **Au menu en ce moment...**//*Ongoing Projects* :
 
+- 🍓 Configuration d'un serveur rasperryPi (debian, docker, postgres, mongo, mage).
+- 🍓 *RaspberryPi servr setup (debian, docker, postgres, mongo, mage)*
 - 🎮 Conception en python de systems réutilisables pour le jeux video: splash screens, menu, animation, camera, ...
 - 🎮 *Designing reusable Python systems for video games: splash screens, menus, animations, camera, etc.*
 - 🛠️ Outil de création d'assets 2D/spritesheet automatisé.
