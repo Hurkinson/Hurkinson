@@ -3,33 +3,26 @@
 # 👋 Bienvenue sur mon GitHub// *Welcome on my GitHub*   
 Je suis Vivien, un passionné de programmation et de data engineering. 🚀
 
-## 🔥 **Mes technos**//*my tech stack* :
-
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,rust,C#,pgsql,mongo,unity,docker,debian )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,fastapi,flask,git,html,css,aws,cpp,postgres,mysql,mongodb,raspberrypi,docker,windows,debian,redhat)](https://skillicons.dev)
 
 ## 🔥 **Ce que je fais**//*What I Do* :
 
-- 🎮 Développement de jeux vidéo
-- 🎮 *Game development*
+- 🎮 Développement de jeux vidéo // *Game development* 
 - 📊 Materiel de formation en Analyse de données, data engineering et Machine Learning
-- 📊 *Data analysis, machine learning and data engineering learning contents*
-- 🛠️ Création d’outils divers en Python.
-- 🛠️ *Building tools with Python.*
-
+- 📊 *Data analysis, machine learning and data engineering learning contents*  [![My Skills](https://skillicons.dev/icons?i=py,mysql,github,tensorflow,notion)](https://skillicons.dev)
+- 🛠️ Création d’outils divers en Python. // *Building tools with Python.*
 
 ## 📌 **Au menu en ce moment...**//*Ongoing Projects* :
 
-- 🍓 Configuration d'un serveur rasperryPi (debian, docker, postgres, mongo, mage).
-- 🍓 *RaspberryPi servr setup (debian, docker, postgres, mongo, mage)*
+- 🍓 Configuration d'un serveur rasperryPi. 
+- 🍓 *RaspberryPi server setup* [![My Skills](https://skillicons.dev/icons?i=raspberrypi,ebian)](https://skillicons.dev)
 - 🎮 Conception en python de systems réutilisables pour le jeux video: splash screens, menu, animation, camera, ...
-- 🎮 *Designing reusable Python systems for video games: splash screens, menus, animations, camera, etc.*
-- 🛠️ Outil de création d'assets 2D/spritesheet automatisé.
-- 🛠️ *Automated 2D asset/spritesheet creation tool.* 
+- 🎮 *Designing reusable Python systems for video games: splash screens, menus, animations, camera, etc.* [![My Skills](https://skillicons.dev/icons?i=py,rust,bevy,cs,unity)](https://skillicons.dev)
 - 📦 Pipeline ETL avec Docker pour de l'analyse sur l'emploi en france.
-- 📦 *ETL pipeline with Docker for job market analysis in France.*
+- 📦 *ETL pipeline with Docker for job market analysis in France.* [![My Skills](https://skillicons.dev/icons?i=django,fastapi,postgres,mongodb,raspberrypi,docker,debian)](https://skillicons.dev)
 - 📖 me familiariser avec Rust quand j'ai le temp.
-- 📖 *Getting familiar with Rust whenever I have time.*
+- 📖 *Getting familiar with Rust whenever I have time.* [![My Skills](https://skillicons.dev/icons?i=rust,bevy)](https://skillicons.dev)
 
 
 🌎 **Retrouvez-moi ici**//*Connect with me* :
-- [LinkedIn](https://www.linkedin.com/in/vivien-schneider-007a7462/)
+- [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)[LinkedIn](https://www.linkedin.com/in/vivien-schneider-007a7462/)
