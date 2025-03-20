@@ -14,10 +14,10 @@ Je suis Vivien, un passionné de programmation et de data engineering. 🚀
 
 ## 📌 **Au menu en ce moment...**//*Ongoing Projects* :
 
-- 🍓 Configuration d'un serveur rasperryPi. 
-- 🍓 *RaspberryPi server setup* [![My Skills](https://skillicons.dev/icons?i=raspberrypi,ebian)](https://skillicons.dev)
+- 🍓 Configuration d'un serveur rasperryPi // *RaspberryPi server setup* 
+[![My Skills](https://skillicons.dev/icons?i=raspberrypi,ebian)](https://skillicons.dev)
 - 🎮 Conception en python de systems réutilisables pour le jeux video: splash screens, menu, animation, camera, ...
-- 🎮 *Designing reusable Python systems for video games: splash screens, menus, animations, camera, etc.* [![My Skills](https://skillicons.dev/icons?i=py,rust,bevy,cs,unity)](https://skillicons.dev)
+- 🎮 *Designing reusable systems for video games: splash screens, menus, animations, camera, etc.* [![My Skills](https://skillicons.dev/icons?i=py,rust,bevy,cs,unity)](https://skillicons.dev)
 - 📦 Pipeline ETL avec Docker pour de l'analyse sur l'emploi en france.
 - 📦 *ETL pipeline with Docker for job market analysis in France.* [![My Skills](https://skillicons.dev/icons?i=django,fastapi,postgres,mongodb,raspberrypi,docker,debian)](https://skillicons.dev)
 - 📖 me familiariser avec Rust quand j'ai le temp.
@@ -25,4 +25,4 @@ Je suis Vivien, un passionné de programmation et de data engineering. 🚀
 
 
 🌎 **Retrouvez-moi ici**//*Connect with me* :
-- [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vivien-schneider-007a7462/)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vivien-schneider-007a7462/)
