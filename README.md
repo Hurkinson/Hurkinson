@@ -18,19 +18,19 @@ Salut, c'est Vivien, un passionné de programmation en tout genre et de data eng
 - 🍓 Configuration d'un serveur rasperryPi // *RaspberryPi server setup*
 
   
-[![My Skills](https://skillicons.dev/icons?i=raspberrypi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=raspberrypi,debian)](https://skillicons.dev)
 - 🎮 Développement de jeux vidéo // *Game development - designing reusable systems for video games: splash screens, menus, animations, camera, etc.*
 
   
-[![My Skills](https://skillicons.dev/icons?i=py,rust,bevy,cs,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bevy,cs,unity)](https://skillicons.dev)
 - 📦 Pipeline ETL avec Docker pour de l'analyse sur l'emploi en france. *ETL pipeline with Docker for job market analysis in France.*
 
   
-[![My Skills](https://skillicons.dev/icons?i=django,fastapi,postgres,mongodb,raspberrypi,docker,debian)](https://skillicons.dev)
-- 📖 me familiariser avec Rust quand j'ai le temp. // *Getting familiar with Rust whenever I have time.*
+[![My Skills](https://skillicons.dev/icons?i=django,html,css,fastapi,postgres,mongodb,raspberrypi,docker)](https://skillicons.dev)
+- 📖 me familiariser avec le bas niveau quand j'ai le temp. // *Getting familiar with lowlevel programming whenever I have time.*
 
 
-[![My Skills](https://skillicons.dev/icons?i=rust,bevy)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,cpp)](https://skillicons.dev)
 
 
 🌎 **Retrouvez-moi ici**//*Connect with me* :
