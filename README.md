@@ -8,7 +8,9 @@ Salut, c'est Vivien, un passionné de programmation en tout genre et de data eng
 ## 🔥 **Ce que je fais**//*What I Do* :
 
 - 📘 Formation de personnes en reconversion pro sur l'analyse de donnée. // *Training individuals in career transition on data analysis*
-- 📊 Materiel pedagogique, data analyse, engineering et Machine Learning *Data analysis, machine learning and data engineering learning contents*  
+- 📊 Materiel pedagogique, data analyse, engineering et Machine Learning *Data analysis, machine learning and data engineering learning contents.*
+
+
 [![My Skills](https://skillicons.dev/icons?i=py,mysql,github,docker,tensorflow,notion)](https://skillicons.dev)
 
 ## 📌 **Au menu en ce moment...**//*Ongoing Projects* :
