@@ -3,6 +3,10 @@
 # 👋 Bienvenue sur mon GitHub// *Welcome on my GitHub*   
 Je suis Vivien, un passionné de programmation et de data engineering. 🚀
 
+## 🔥 **Mes technos**//*my tech stack* :
+
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,rust,C#,pgsql,mongo,unity,docker,debian )](https://skillicons.dev)
+
 ## 🔥 **Ce que je fais**//*What I Do* :
 
 - 🎮 Développement de jeux vidéo
