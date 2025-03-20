@@ -25,4 +25,4 @@ Je suis Vivien, un passionné de programmation et de data engineering. 🚀
 
 
 🌎 **Retrouvez-moi ici**//*Connect with me* :
-- [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)[LinkedIn](https://www.linkedin.com/in/vivien-schneider-007a7462/)
+- [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vivien-schneider-007a7462/)
