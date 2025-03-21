@@ -33,5 +33,4 @@ Salut, c'est Vivien, un passionné de programmation en tout genre et de data eng
 [![My Skills](https://skillicons.dev/icons?i=rust,cpp)](https://skillicons.dev)
 
 
-🌎 **Retrouvez-moi ici**//*Connect with me* :
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/vivien-schneider-007a7462/)
